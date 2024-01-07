@@ -1,0 +1,30 @@
+{
+    "os": "macOS-13.6-arm64-arm-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2024-01-06T22:28:16.207812",
+    "startedAt": "2024-01-06T22:28:10.797940",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "CurtisMac.local",
+    "username": "curtispond",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/cx-analytics/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 165.75806045532227
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
